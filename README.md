@@ -20,7 +20,7 @@ A modern, responsive landing page for Cozy Corner Cafe, featuring a clean design
 
 ### Current Version
 - **Version:** 0.1.0-beta
-- **Last Updated:** January 2024
+- **Last Updated:** December 2024
 - **Status:** Active Development
 
 ### Upcoming Features
