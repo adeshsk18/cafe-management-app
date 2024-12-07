@@ -1,4 +1,4 @@
-# 🍵 Cozy Corner Cafe - Landing Page
+# 🍵 CozyCorner Cafe - Landing Page
 
 > **Project Status:** 🚧 Under Active Development (v0.1.0-beta)
 >
